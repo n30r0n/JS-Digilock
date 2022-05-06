@@ -21,3 +21,11 @@
     bottom: 0px;
     top: 40px;
 }
+#creator{
+    font-family: monospace;
+    color: burlywood;
+    font-size: small;
+    text-align: center;
+    position: relative;
+    right: 220px;
+}
